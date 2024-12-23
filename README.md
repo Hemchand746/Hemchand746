@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hemchand746
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C language 
+- 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on GITHUB
 - 📫 How to reach me : This is my mail id through this u can contact me : polakalahemchand0602@gmail.com
